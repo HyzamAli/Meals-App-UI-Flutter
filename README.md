@@ -1,4 +1,4 @@
-# meals_app_p3
+# Meals App UI - Flutter
 
 A new Flutter application.
 
